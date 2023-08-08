@@ -8,6 +8,7 @@ public class Inimigo : MonoBehaviour
     public float distancia = 3;
     public bool olhandoParaDireita;
     public float velocidade = 4;
+    //esse projeto vai ficar lindo//
 
     // Start is called before the first frame update
     private void Start()
