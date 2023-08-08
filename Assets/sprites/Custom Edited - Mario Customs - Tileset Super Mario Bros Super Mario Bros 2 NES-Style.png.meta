@@ -1,0 +1,4556 @@
+fileFormatVersion: 2
+guid: 86e44c192737cb0458d7304aa7435e3e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 17
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 259
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c445d44c44592429659f8f6d3363cd
+      internalID: -262636466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 259
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6236afb5da4754dab10e2f37e26cc1
+      internalID: 1687223064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 261
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16aa9be9d95f72f4fa17396aa845f2bf
+      internalID: -184523239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 261
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d15ca21d29e2d14eb8c3a0cc3e09acd
+      internalID: 727289218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 259
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d930fd6f027874c478aa84efbdce16b5
+      internalID: 1498001985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 259
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7808deb1499fd764dad65be50b34735f
+      internalID: -1786174874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 259
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d06a8a3c340ef4a990ba710f375317
+      internalID: 650131366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 259
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094264207a4c7574bab999a9edf9f46a
+      internalID: -1663546626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 259
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a30ca2f80adbe44bfe54ff4db4f390
+      internalID: 1433392622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 259
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b21e243d7a0a4f46adf39a78f32bee0
+      internalID: 1237903157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 259
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7547db8b78b1b7c4aa61f2b2d1cf1f04
+      internalID: 2057529795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 259
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043644463747f354498f1b72f84f85ae
+      internalID: -925114200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef13f5140e6a9bb42aeb510e04bc9d4f
+      internalID: 1710609340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 242
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b992ba6c77a17f849854196251bbe3e7
+      internalID: 1504179992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 242
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ccacef78b43dd4ba898414ebf4362b
+      internalID: -943664219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_15
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 242
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ee15fad759dd14fa9d256458bba841
+      internalID: -1238055639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_16
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 242
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc01e6345cf569245866991f6d178e9a
+      internalID: 144308019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_17
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 242
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156cb3ad197414943b2e9cdbcfce4918
+      internalID: 2071955487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_18
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 242
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403dc1dbdc7c2ca4399df4090dc41126
+      internalID: 17362926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_19
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 242
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924ecd272a542e64fab95db9b81c68c1
+      internalID: -2073139169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 242
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6ce8edb6dfc324d86090e2a1d77793
+      internalID: 639848189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_21
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 242
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d553ddf71f4adb24282363c54bda9783
+      internalID: -1902869226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_22
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 242
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6c86baa2f0b7648b31d901111c57f2
+      internalID: 157289581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_23
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 242
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b25d88ee54b8214a882df844766e0e3
+      internalID: -1446797923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1279ce4f1e0923439704e8997838fc3
+      internalID: 893243339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_25
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 225
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ca7c7610c39674aa82603ea0a03e66
+      internalID: 1444369697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_26
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 225
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f72ba5824607f49aebc6f16c5147e1
+      internalID: 1540995673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_27
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 225
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb80e49a9c093e3439df08f182baa1c0
+      internalID: 1890202117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_28
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 225
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c2a64df8c66e046b9723b3ed33b838
+      internalID: 472103111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_29
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 225
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c2aab9a0c7ee24f8eb8d2bae63e92f
+      internalID: -2437609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_30
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 225
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb7d1af2ee23fe4fa57a63dd852eda9
+      internalID: 1956823278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_31
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 225
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a545273d30c33f54f8cd2ed92416fe39
+      internalID: -1888284824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_32
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 225
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47dfed358a5af544b8fa571e4dcd1ab5
+      internalID: -333366465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_33
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 225
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adae804d2651aa43899d6c5d02d5407
+      internalID: -1281516748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_34
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 225
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807614eaef5ad914ab9047c537c2dd45
+      internalID: -867923289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_35
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 225
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee24c5e8fdd112a46aff866e104d153a
+      internalID: -1748227210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2886da7e15e740145910fba3aff66587
+      internalID: -899393432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_37
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 208
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4f377dfe433274190aba86088ac0a5
+      internalID: -1632008061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_38
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 208
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f07d7f0b2b415f42b210b619d4978c4
+      internalID: -330264013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_39
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 208
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdc5d850f6f6b341aa54534776612be
+      internalID: -428817064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_40
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 208
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5eee5c13be58504b84970e096ffd5d2
+      internalID: 957774108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_41
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 208
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81d59ee9dd61b64da6b4703ab59ea64
+      internalID: 827762566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_42
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 208
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b480506bcde9264ab9d8f0016572c1c
+      internalID: 997270890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_43
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 208
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd97bc208689e1245a41838cb3d4860e
+      internalID: -2061637719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_44
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 208
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac0d1517579dc74493919d3c47367b5
+      internalID: 1170949178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_45
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 208
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d28b9602073a19498814f5b7bb041b2
+      internalID: 59029228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_46
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 208
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5469bbbe05ef3c1449782190ceeef8ec
+      internalID: -659767783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_47
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 208
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fece56a7b9cb34049983460fc5162be5
+      internalID: 1143889297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e96024cc663d640942151dd88552fe
+      internalID: 247889978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_49
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 191
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e76824eebb89ea439cc76ab437527c1
+      internalID: -99588791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_50
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 191
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c3bbb7c57cec24fbfacd95dce3f6b7
+      internalID: -1873179142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_51
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 191
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039e7c80344e2054b8c886fe570c2552
+      internalID: 238635929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_52
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 191
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b49be260a885e438b05775091cecb9
+      internalID: -684775817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_53
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 191
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7562b7cfc30254c4192bac471db31638
+      internalID: -1713180317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_54
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 191
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50884d185476ab54790b8bca09085fa8
+      internalID: 1629809367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_55
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 191
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4121154213c2446aa4c2a436d224cd
+      internalID: -1770025876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_56
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 191
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc73e612764b804e965d9965a5b0c81
+      internalID: 1088789998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_57
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 191
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f468b6dd59bb14bbf5ed71388bf735
+      internalID: 578865303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_58
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 191
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a875770fb3959240bcf73184925addc
+      internalID: -1968063648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_59
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 191
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67615d553323f8f4cb83cd9bc0e3a4ae
+      internalID: 194675933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef594e2b313c7f42a8cb544b257e209
+      internalID: -693698876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_61
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 174
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110ab8e170b67704dab5a19f367e5663
+      internalID: -2001510448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_62
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 174
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c043acb743c7914ca2537e114e690d9
+      internalID: 290909246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_63
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 174
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074b33747439e18498455894ff131cb7
+      internalID: 63193957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_64
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 174
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c432c5e200dca449ab12d0bbdad0c4
+      internalID: 389812961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_65
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 174
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c66eeefcd72c44479b46e99edf0fcb2
+      internalID: -806559850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_66
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 174
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386594c1cd8e80f45a580a5da567a6ff
+      internalID: -1805340792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_67
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 174
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150b1e11ae09d65458c8d7589f7804a5
+      internalID: 403441999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_68
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 174
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c34733d07085c4f867058a7d716f07
+      internalID: -1468059594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_69
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 174
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28d6e54488912848982e32d41f8e95f
+      internalID: 1996991145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_70
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 174
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1d34ced07499a4fae83cd113df5aaf
+      internalID: 685493964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_71
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 174
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d5f50d5779c5544b716dcaf2159299
+      internalID: 845716559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e182276ef06d140a99921cefae21fe
+      internalID: -1578240352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_73
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 157
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560c0393f1161624c831c2d54d36626b
+      internalID: -919429386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_74
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 157
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc47deda0709e314090e9884ec6e9808
+      internalID: -1970788238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_75
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 157
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e104cac0503aade4a91eea83863f2f6e
+      internalID: -1424816783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_76
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 157
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200d2eafbd51d9a4187cc2c11a7aa91d
+      internalID: -337328643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_77
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 157
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20118c59989174d498a655483ca1d1bd
+      internalID: 779757477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_78
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 157
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19185bed4f1a42244a90e24e583877e4
+      internalID: -1621182856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_79
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 157
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfeda5cf1ad3ac14fb53555a898ca0d7
+      internalID: 1425349030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_80
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 157
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb01df3d66ab5146b48bfbc9b92cdfa
+      internalID: 1831202195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_81
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 157
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8b8c73fed879f41b45bfe101eb2975
+      internalID: 975489724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_82
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 157
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3dca3f0d18959140860efaf7e60c998
+      internalID: 603977620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_83
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 157
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6fea9f95e6f3f4ea1df48c6d2dddc6
+      internalID: 14302653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fd7cb1135036b4cb84ff7de330501f
+      internalID: 1235670854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_85
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 140
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028fc1dda02256041a7353999803c9b7
+      internalID: 1263788334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_86
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 140
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bea9e8f587a45540a8fab3735b5341b
+      internalID: 5014631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_87
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 140
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede5a91eb0dae384188c5e5f47e857c1
+      internalID: 1655831484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_88
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 140
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d738b714cda27444893762b110f3a134
+      internalID: -656159996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_89
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 140
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75f805d081b5c3449302ae5ae44d561
+      internalID: -1077727689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_90
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 140
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999cff6c552020543a57f2c29535bc4c
+      internalID: 2012825614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_91
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 140
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8b3e2cdd6ce084eb6bd5cc10b3f8f5
+      internalID: 1640438412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_92
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 140
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba761b496f31bad4cba786e29b2135d9
+      internalID: -1796425764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_93
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 140
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905905091c812804bab9b0f7211ee9e7
+      internalID: -69584559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_94
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 140
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea74c082fc480e4385bbd65c6743c35
+      internalID: -1628397937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_95
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 140
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0156a63c7af9d8340a15a60905e89d5a
+      internalID: 1640940543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556348d880901954f9685ee1aa956065
+      internalID: -1730816008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_97
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 123
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d23d6b61ed61b945a182966fa4e4f43
+      internalID: -904897445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_98
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 123
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636951fc12457b74681537c99cfc703d
+      internalID: -191422120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_99
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 123
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea8c1cf1e6b3e943a7c533b596ba22e
+      internalID: -1035392739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_100
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 123
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11a89dbe707b514a9e84fb9ed8737fa
+      internalID: 259853203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_101
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 123
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a611e881f5164f4c9cc21c004f6eae9
+      internalID: 1322079235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_102
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 123
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bfd860425d82546a2903ba5f7a0529
+      internalID: 1153662342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_103
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 123
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d394e780b3dcb41aa42a451f846d64
+      internalID: 1100679515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_104
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 123
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d212abe32a6a5a842bed93630e46cf66
+      internalID: -584040487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_105
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 123
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634f0a38c41b24d47ab85b614d7b9d87
+      internalID: 1788662365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_106
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 123
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647dd88d0bec2e84ea8677a6f01e7059
+      internalID: 103013095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_107
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 123
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a96c911795571d449edbd98c6262799
+      internalID: -918618354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f289a27cec9a79b4d8ecd4fd0895fc5a
+      internalID: 1694282996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_109
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 106
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbeec7a0abf81e14faadd98a9227544b
+      internalID: 2034704737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_110
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 106
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e563baa632d0782469e6ea6aa0a40c1f
+      internalID: 498669761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_111
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 106
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131f9b8bbea956648b0b48dcbe39a37e
+      internalID: 2084609669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_112
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 106
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc9684ddc5b59048a971726dc5fa0e9
+      internalID: -111428169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_113
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 106
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abf6178434713545b6f945dfeaa3abf
+      internalID: 641033425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_114
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 106
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3a386cf630259488a254cb5b3e5fab
+      internalID: 226014305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_115
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 106
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777af0c0c2cb6ce4abe8dccd014e24e2
+      internalID: -145827875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_116
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 106
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e34da861e1afe43bbae4b1bfe032a7
+      internalID: -801158217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_117
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 106
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368e789d2ae0c3741b56a37a05acf142
+      internalID: 1554345408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_118
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 106
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0198f2f36d82cb6449bf050f4d8f1429
+      internalID: -408922170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_119
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 106
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731eaf09ff330be46a2c9e944ce04fe1
+      internalID: -1734383266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81470aa6757a1994cb749e21fed2ed20
+      internalID: 540957308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_121
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 89
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273222a92ad80114284f0201b783fbc2
+      internalID: 896109625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_122
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 89
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c350b53bf932d794593bbb98a1c8216e
+      internalID: -1961814304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_123
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 92
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5d1f44c2509c44c86642a86cb14f63
+      internalID: -1936021526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_124
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 89
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df98032edbe70e2489f1b9b424b639b4
+      internalID: 1866159838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_125
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 89
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ddbd45a1980e74897c556bbdfb65be
+      internalID: -1619557339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_126
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 89
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e07a2dc4f696344e9650cb4f56b9b5f
+      internalID: 1355901143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_127
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 89
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7022bad04a3f00242812050d5c27fd44
+      internalID: 1529772024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_128
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 89
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03f420de5cdc984c80754f854606938
+      internalID: 1304053093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_129
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 89
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8722b1c66cd6a4d40bd3930884b36550
+      internalID: -926407114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_130
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 89
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aadc624183918943b1549fcc74368f4
+      internalID: 1410853804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_131
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 89
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24645f04581ef741865327655e65703
+      internalID: -1979606633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e465f947d67a14b97658cd8f085edc
+      internalID: -1603029054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_133
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 72
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2613d107939bc459db0950ebf0680e
+      internalID: -1820794764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_134
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 72
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9400bd8007fad42a6079b8498e4fda
+      internalID: -384214103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_135
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 72
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32240718c86094148a5976fd982dc5cf
+      internalID: 785111602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_136
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 72
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e459c7c3fd0b6ca4b919745f608218dd
+      internalID: 227110576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_137
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 72
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4864949cc319a6b498df0c31fb7e62e8
+      internalID: 980461010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_138
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 72
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4559edd7c959cca42971f61ebaddeafa
+      internalID: 1379856073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_139
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 72
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929801fea2ba9e043b01521ba80c139f
+      internalID: -1958234870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_140
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 72
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfd5e9358d0bee42a9f3e7fe2d05e2b
+      internalID: -1636872088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_141
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 72
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9f77f2a978e694c9ca6572cd795a18
+      internalID: 1594891832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_142
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 72
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014fcb630e3604b418edefe60a3ac50a
+      internalID: -1773125859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_143
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 72
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd7d52cd9e72a0459171355c4470aa3
+      internalID: -1757213435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7e037a666528348b4a663958363807
+      internalID: 882388524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_145
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 55
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f1394d2bd2aa045bb3be69e2fd3117
+      internalID: -1976890210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_146
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 55
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdcb8b2a43737d479707186f8d32279
+      internalID: 349447083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_147
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 55
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d46044575194b449083c649172e3c5
+      internalID: 1490810416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_148
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 55
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7fe429375041c4f9b1c829f833cde9
+      internalID: -660002305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_149
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 55
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ea025d0bbfa07438632243524b4002
+      internalID: -1560293503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_150
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 49
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c497bb2ef68204994509f2f315ed00
+      internalID: -1331961762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_151
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 49
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d09a1f47c8c5614a90266acd134bc88
+      internalID: -1350914226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_152
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 55
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2080904522d2fda4ba0292c4133b2d03
+      internalID: 761075046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_153
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 55
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048d420d906204847ae080c4697e8c94
+      internalID: -1644187140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_154
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 55
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691f0a06a480ffc4dbf6499e231e5bdd
+      internalID: 742211735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_155
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 55
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18750de697b3dda4fb1dea67b28a5062
+      internalID: 460842804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2ebf2adade5f640b68e0c75404b076
+      internalID: -1441358581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_157
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 38
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b9cda396859a34eafea8bd33377b65
+      internalID: -1685387857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_158
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 38
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483952bb91453344496312651ec03e94
+      internalID: 231337816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_159
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 38
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07ecc5947a7ff8489d60a19a3a5dcfa
+      internalID: -31724275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_160
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 38
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c987008559b61bd4e8ac05d511faa544
+      internalID: -1679975746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_161
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 38
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d80d8d8625ecc42af8874c13401862
+      internalID: 318947246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_162
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 38
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6242799a594b1d7428fe7842d0a8ed38
+      internalID: -1027032172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_163
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 38
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa593cfb470e9314c965612ecd30a88f
+      internalID: 1684280454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_164
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 38
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13ebaa0176a477478f1d13149e9c42e
+      internalID: 155903671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_165
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 38
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d005ab3366608f4ebc78ff0ba6cf625
+      internalID: -1137502085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_166
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 38
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a021abad412554c800a92b655424e6
+      internalID: -1012061693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_167
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 38
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4c1e0997847a64fb9775dfb6889d1f
+      internalID: 602672972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b33efff17dfa2499144703b47a5942
+      internalID: 323342060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_169
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 21
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d898776f149a2b44a9300c05eccec224
+      internalID: -90279452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_170
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 21
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53fe1fb2cd519f4ead47ce1a65554b5
+      internalID: 805926348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_171
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 21
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2092fc2177988469f0c91626cda90d
+      internalID: 1666629629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_172
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 21
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67888c24b6ffed944b6be09b8ff81a33
+      internalID: 1786574361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_173
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 21
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0ab42e20e618649bd47ca60e1dece8
+      internalID: -1757044370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_174
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 21
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f046eaf0db8d6a49b908f88b1295852
+      internalID: 778549662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_175
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 21
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a928f515dd9e524dbcbc655c04a2f58
+      internalID: -2134825776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_176
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 21
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3e37511b37a9243884d909ec5cd543
+      internalID: -192972277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_177
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 21
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8405a5be0476f054d9e78cc44aa92774
+      internalID: 1752099445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_178
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 21
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a58c8a62969bdf44811dc4a19c28884
+      internalID: 6413068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_179
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 21
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d5090a597096a43bf2978d1a61c0cf
+      internalID: -46042490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e9f866fbdc1e6459d2734f0dec9a0f
+      internalID: -1790692703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_181
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 4
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53637ddba1b6aa14995a973c4efbdd1f
+      internalID: 1649285210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_182
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 4
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee5c84c7d98e1d4493ec72ada85cef9
+      internalID: -1751657226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_183
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 4
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c19a2022e2a03544be3617e547175a1
+      internalID: 1423714642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_184
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 4
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a53d5c45829bfd4a91c9c01adf8810c
+      internalID: 951742444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_185
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 4
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3073140663c054ebfc27c3e03b9051
+      internalID: 269252942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_186
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 4
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c238383b7e0dc48a3c2ac6460ab57b
+      internalID: 1181804426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_187
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 4
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275b2bac860d9d64ebf8e8ceaab56b87
+      internalID: -428307426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_188
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 4
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ca642542d225f40b49584f7fbdf5f0
+      internalID: 317030621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_189
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 4
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e3d73a8e068fc47a51b5ea4830f81e
+      internalID: 704738193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_190
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 4
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d082acd8927e84b47822cae6667fce26
+      internalID: -648659651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
+        Bros 2 NES-Style_191
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 4
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a671566b76a604b91f313b9627372a
+      internalID: 82926312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_0: -262636466
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_1: 1687223064
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_10: 2057529795
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_100: 259853203
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_101: 1322079235
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_102: 1153662342
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_103: 1100679515
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_104: -584040487
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_105: 1788662365
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_106: 103013095
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_107: -918618354
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_108: 1694282996
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_109: 2034704737
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_11: -925114200
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_110: 498669761
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_111: 2084609669
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_112: -111428169
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_113: 641033425
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_114: 226014305
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_115: -145827875
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_116: -801158217
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_117: 1554345408
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_118: -408922170
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_119: -1734383266
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_12: 1710609340
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_120: 540957308
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_121: 896109625
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_122: -1961814304
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_123: -1936021526
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_124: 1866159838
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_125: -1619557339
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_126: 1355901143
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_127: 1529772024
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_128: 1304053093
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_129: -926407114
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_13: 1504179992
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_130: 1410853804
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_131: -1979606633
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_132: -1603029054
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_133: -1820794764
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_134: -384214103
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_135: 785111602
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_136: 227110576
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_137: 980461010
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_138: 1379856073
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_139: -1958234870
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_14: -943664219
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_140: -1636872088
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_141: 1594891832
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_142: -1773125859
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_143: -1757213435
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_144: 882388524
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_145: -1976890210
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_146: 349447083
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_147: 1490810416
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_148: -660002305
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_149: -1560293503
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_15: -1238055639
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_150: -1331961762
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_151: -1350914226
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_152: 761075046
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_153: -1644187140
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_154: 742211735
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_155: 460842804
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_156: -1441358581
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_157: -1685387857
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_158: 231337816
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_159: -31724275
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_16: 144308019
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_160: -1679975746
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_161: 318947246
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_162: -1027032172
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_163: 1684280454
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_164: 155903671
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_165: -1137502085
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_166: -1012061693
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_167: 602672972
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_168: 323342060
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_169: -90279452
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_17: 2071955487
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_170: 805926348
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_171: 1666629629
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_172: 1786574361
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_173: -1757044370
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_174: 778549662
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_175: -2134825776
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_176: -192972277
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_177: 1752099445
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_178: 6413068
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_179: -46042490
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_18: 17362926
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_180: -1790692703
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_181: 1649285210
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_182: -1751657226
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_183: 1423714642
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_184: 951742444
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_185: 269252942
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_186: 1181804426
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_187: -428307426
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_188: 317030621
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_189: 704738193
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_19: -2073139169
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_190: -648659651
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_191: 82926312
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_2: -184523239
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_20: 639848189
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_21: -1902869226
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_22: 157289581
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_23: -1446797923
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_24: 893243339
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_25: 1444369697
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_26: 1540995673
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_27: 1890202117
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_28: 472103111
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_29: -2437609
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_3: 727289218
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_30: 1956823278
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_31: -1888284824
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_32: -333366465
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_33: -1281516748
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_34: -867923289
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_35: -1748227210
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_36: -899393432
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_37: -1632008061
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_38: -330264013
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_39: -428817064
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_4: 1498001985
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_40: 957774108
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_41: 827762566
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_42: 997270890
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_43: -2061637719
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_44: 1170949178
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_45: 59029228
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_46: -659767783
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_47: 1143889297
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_48: 247889978
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_49: -99588791
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_5: -1786174874
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_50: -1873179142
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_51: 238635929
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_52: -684775817
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_53: -1713180317
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_54: 1629809367
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_55: -1770025876
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_56: 1088789998
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_57: 578865303
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_58: -1968063648
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_59: 194675933
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_6: 650131366
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_60: -693698876
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_61: -2001510448
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_62: 290909246
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_63: 63193957
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_64: 389812961
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_65: -806559850
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_66: -1805340792
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_67: 403441999
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_68: -1468059594
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_69: 1996991145
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_7: -1663546626
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_70: 685493964
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_71: 845716559
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_72: -1578240352
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_73: -919429386
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_74: -1970788238
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_75: -1424816783
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_76: -337328643
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_77: 779757477
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_78: -1621182856
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_79: 1425349030
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_8: 1433392622
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_80: 1831202195
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_81: 975489724
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_82: 603977620
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_83: 14302653
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_84: 1235670854
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_85: 1263788334
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_86: 5014631
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_87: 1655831484
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_88: -656159996
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_89: -1077727689
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_9: 1237903157
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_90: 2012825614
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_91: 1640438412
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_92: -1796425764
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_93: -69584559
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_94: -1628397937
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_95: 1640940543
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_96: -1730816008
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_97: -904897445
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_98: -191422120
+      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_99: -1035392739
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
