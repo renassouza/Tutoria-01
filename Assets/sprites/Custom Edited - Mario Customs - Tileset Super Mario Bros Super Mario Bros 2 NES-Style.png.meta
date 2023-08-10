@@ -145,14 +145,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
-        Bros 2 NES-Style_1
+      name: tijolo 02
       rect:
         serializedVersion: 2
-        x: 17
+        x: 18
         y: 259
-        width: 17
-        height: 17
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -167,17 +166,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
-        Bros 2 NES-Style_2
+      name: tijolo
       rect:
         serializedVersion: 2
-        x: 36
-        y: 261
-        width: 14
-        height: 12
+        x: 35
+        y: 259
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 1, w: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -1333,14 +1331,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
-        Bros 2 NES-Style_55
+      name: cano01
       rect:
         serializedVersion: 2
-        x: 119
+        x: 120
         y: 191
-        width: 17
-        height: 17
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1443,14 +1440,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
-        Bros 2 NES-Style_60
+      name: grama01
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1
         y: 174
-        width: 17
-        height: 17
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1465,14 +1461,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
-        Bros 2 NES-Style_61
+      name: grama02
       rect:
         serializedVersion: 2
-        x: 17
+        x: 18
         y: 174
-        width: 17
-        height: 17
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1487,14 +1482,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
-        Bros 2 NES-Style_62
+      name: grama03
       rect:
         serializedVersion: 2
-        x: 34
+        x: 35
         y: 174
-        width: 17
-        height: 17
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2961,14 +2955,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario
-        Bros 2 NES-Style_129
+      name: caixa
       rect:
         serializedVersion: 2
-        x: 153
+        x: 154
         y: 89
-        width: 17
-        height: 17
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4346,6 +4339,69 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: cano02
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2044d3cf8489fa54098841c98037c39d
+      internalID: 1638707578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cano03
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecca39bb021cd934fa3a761e034bb2a5
+      internalID: -43545203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cano04
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70a5e641be86d2488f6c4571376a80d
+      internalID: 318784791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -4358,7 +4414,6 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_0: -262636466
-      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_1: 1687223064
       Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_10: 2057529795
       Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_100: 259853203
       Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_101: 1322079235
@@ -4391,7 +4446,6 @@ TextureImporter:
       Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_126: 1355901143
       Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_127: 1529772024
       Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_128: 1304053093
-      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_129: -926407114
       Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_13: 1504179992
       Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_130: 1410853804
       Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_131: -1979606633
@@ -4461,7 +4515,6 @@ TextureImporter:
       Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_19: -2073139169
       Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_190: -648659651
       Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_191: 82926312
-      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_2: -184523239
       Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_20: 639848189
       Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_21: -1902869226
       Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_22: 157289581
@@ -4500,15 +4553,11 @@ TextureImporter:
       Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_52: -684775817
       Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_53: -1713180317
       Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_54: 1629809367
-      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_55: -1770025876
       Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_56: 1088789998
       Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_57: 578865303
       Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_58: -1968063648
       Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_59: 194675933
       Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_6: 650131366
-      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_60: -693698876
-      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_61: -2001510448
-      Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_62: 290909246
       Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_63: 63193957
       Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_64: 389812961
       Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_65: -806559850
@@ -4549,6 +4598,16 @@ TextureImporter:
       Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_97: -904897445
       Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_98: -191422120
       Custom Edited - Mario Customs - Tileset Super Mario Bros Super Mario Bros 2 NES-Style_99: -1035392739
+      caixa: -926407114
+      cano01: -1770025876
+      cano02: 1638707578
+      cano03: -43545203
+      cano04: 318784791
+      grama01: -693698876
+      grama02: -2001510448
+      grama03: 290909246
+      tijolo: -184523239
+      tijolo 02: 1687223064
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

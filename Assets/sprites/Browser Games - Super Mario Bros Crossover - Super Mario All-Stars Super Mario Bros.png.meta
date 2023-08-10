@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 20
+  spritePixelsToUnits: 22
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -123,8 +123,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super
-        Mario Bros_0
+      name: cogumelo
       rect:
         serializedVersion: 2
         x: 27
@@ -166,6 +165,137 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super
+        Mario Bros_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 177
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97747366cbc6034eb703c9f5e137407
+      internalID: 917350106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super
+        Mario Bros_3
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 177
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f9aa7924d4f614088ba33f426cd7fa
+      internalID: 1235596637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super
+        Mario Bros_4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 177
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25547a914f2b08846b20f7d0f7c114dc
+      internalID: -322779057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super
+        Mario Bros_5
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 177
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df103c3d5a875764b9c96a3b5b607ea9
+      internalID: -2028209314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super
+        Mario Bros_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 177
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419bbd17a26ec164f9fb7c40366b363e
+      internalID: -126604330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cogumelo02
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 302
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096ec94a04560af4f94ab1c3a5ed6c1d
+      internalID: -1193660199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -177,8 +307,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_0: -1786196654
       Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_1: -106960334
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_2: 917350106
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_3: 1235596637
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_4: -322779057
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_5: -2028209314
+      Browser Games - Super Mario Bros Crossover - Super Mario All-Stars Super Mario Bros_6: -126604330
+      cogumelo: -1786196654
+      cogumelo02: -1193660199
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

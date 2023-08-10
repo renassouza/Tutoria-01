@@ -132,13 +132,79 @@ TextureImporter:
         height: 36
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 1, z: 0, w: 2}
+      border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
       spriteID: aa9c3fdc950addb43816c227a3336ab3
       internalID: 204751030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Mario - Super Mario All-Stars
+        Super Mario Bros_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 336
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb31cb42fac4c942bfa691f877c978f
+      internalID: -1010329517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Mario - Super Mario All-Stars
+        Super Mario Bros_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 336
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05e41385c3a13d4485d6bd8e2a17b66
+      internalID: -1575113748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Mario - Super Mario All-Stars
+        Super Mario Bros_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 336
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2473ca80038c52a42b69b97a9bf912f4
+      internalID: -1396995543
       vertices: []
       indices: 
       edges: []
@@ -154,6 +220,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      Browser Games - Super Mario Bros Crossover - Mario - Super Mario All-Stars Super Mario Bros_0: -1010329517
+      Browser Games - Super Mario Bros Crossover - Mario - Super Mario All-Stars Super Mario Bros_1: -1575113748
+      Browser Games - Super Mario Bros Crossover - Mario - Super Mario All-Stars Super Mario Bros_2: -1396995543
       Super Mario: 204751030
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
